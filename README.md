@@ -8,7 +8,7 @@ Submission of the Entity Relationship Diagram can be found under folder 'sql-cha
 - File 'ERD_code_v3.txtERD_code_v3.txt':  
   contains the code used to generate the diagram  
   
-Note: we assumed serial keys for tables 'dept_emp' and 'dept_manager' in the ERD model; whereas for the final implmentation we created composite keys for those tables instead.
+Note: we model serial keys for tables 'dept_emp' and 'dept_manager' in the ERD; whereas the final implmentation was instead done with composite keys for those tables.
 
 ## Data Engineering
 Submission can be found under folder 'sql-challenge/EmployeeSQL/':  
