@@ -15,7 +15,7 @@ Submission can be found under folder 'sql-challenge/EmployeeSQL/':
 - File 'employees_schema.sql':  
   contains the table schema and code used to create the tables per the ERD (using PostgreSQL); code is included to create the primary composite keys for the tables 'dept_emp' and 'dept_manager'  
   
-Note: the data was uploaded from the .csv files contained in the '/data' folder using the import function of pgAdmin4.
+Note: the data was uploaded from the .csv files contained in the '/data' folder using the import function in pgAdmin4.
   
 ## Data Analysis
 Submission can be found under folder 'sql-challenge/EmployeeSQL/':  
