@@ -20,4 +20,4 @@ Note: the data was uploaded from the .csv files contained in the '/data' folder 
 ## Data Analysis
 Submission can be found under folder 'sql-challenge/EmployeeSQL/':  
 - File 'employees_queries.sql':  
-  contains the code to run each query (using PostgreSQL) as outlined ib the data analysis section of the challenge (duly labelled).
+  contains the code to run each query (using PostgreSQL) as outlined in the data analysis section of the challenge (duly labelled).
